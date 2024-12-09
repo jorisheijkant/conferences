@@ -1,0 +1,4 @@
+__pycache__
+audio_source/*
+!audio_source/.gitkeep
+*.mp3
